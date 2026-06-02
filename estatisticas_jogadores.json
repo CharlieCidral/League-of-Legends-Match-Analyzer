@@ -1,0 +1,112 @@
+{
+    "z0g0hst#br1": {
+        "puuid": "0tif8Kyzjedg-siOiF3wiAJfERyehvPKAm1WlQg2fFwiL22zb7hu4lRHD-e9JYaB3KvZcDzHBenRFA",
+        "estatisticas": {
+            "kills_avg": 10.17,
+            "deaths_avg": 11.33,
+            "assists_avg": 29.0,
+            "kda": 0.58,
+            "win_rate": 50.0,
+            "partidas_analisadas": 6
+        }
+    },
+    "sea89#5752": {
+        "puuid": "XFwHI_ZENG1zFddOq44Lz7v3dNRmPMeNygfLgjep4TAwtZKYM1YB4VxUjQBFI6J_HvDj5UGaOWJnBw",
+        "estatisticas": {
+            "kills_avg": 14.7,
+            "deaths_avg": 12.3,
+            "assists_avg": 24.7,
+            "kda": 0.32,
+            "win_rate": 50.0,
+            "partidas_analisadas": 10
+        }
+    },
+    "NeekoMeu#br1": {
+        "puuid": "24lcA7Y0CUvomqqfaejjUizsQqi1siv0dzK0J-frbIHsXaDm1Gitlekj-MTG8QRg5uyn7XegywlN4Q",
+        "estatisticas": {
+            "kills_avg": 9.0,
+            "deaths_avg": 7.0,
+            "assists_avg": 23.0,
+            "kda": 0.57,
+            "win_rate": 62.5,
+            "partidas_analisadas": 8
+        }
+    },
+    "LOBÃOOOOOOO#br1": {
+        "puuid": "2hW74UxRV0pv0IJwsV0DV_VNHlp9kevmC-MjCs2ju2I-XGbtb3PznrJvAW0smBdPzLr3QZ-6Z9SJJQ",
+        "estatisticas": {
+            "kills_avg": 11.18,
+            "deaths_avg": 13.73,
+            "assists_avg": 37.64,
+            "kda": 0.32,
+            "win_rate": 63.64,
+            "partidas_analisadas": 11
+        }
+    },
+    "manogiou#br1": {
+        "puuid": "_Cu6lFkgoVg0w0fvdhnLYAvPNqvZEfQ1b-SB58vEH4N_Qo5jBkzA1FeUkbrcMkfOfO-uJXvIApzJvA",
+        "estatisticas": {
+            "kills_avg": 12.23,
+            "deaths_avg": 10.08,
+            "assists_avg": 22.0,
+            "kda": 0.26,
+            "win_rate": 53.85,
+            "partidas_analisadas": 13
+        }
+    },
+    "iVitorHARD#br1": {
+        "puuid": "ZFFe5WVQzN5RMvMeCqoEij28nQcpH7xdHV88qUZu8n3hNs_tk96wuh0EQLifSrHZAl1DhS6a3Yqn-A",
+        "estatisticas": {
+            "kills_avg": 8.69,
+            "deaths_avg": 9.54,
+            "assists_avg": 23.69,
+            "kda": 0.26,
+            "win_rate": 46.15,
+            "partidas_analisadas": 13
+        }
+    },
+    "nobru#cute": {
+        "puuid": "1Zov38ZKB1RR3owfprGm4114J9ntiO0HlIRY0q9IJOULAT1NbT7LvgLcI8NtIYTCao-WxMnYVheJ9w",
+        "estatisticas": {
+            "kills_avg": 11.17,
+            "deaths_avg": 13.67,
+            "assists_avg": 28.33,
+            "kda": 0.48,
+            "win_rate": 50.0,
+            "partidas_analisadas": 6
+        }
+    },
+    "Junn#8569": {
+        "puuid": "gpq-qYEUX_pjCbM6o986Gjsq3WkUuoQ0kqkKIF8V68obXUHdlnRGmY4lycOJ7Ib0lxC8gUMgypWt1Q",
+        "estatisticas": {
+            "kills_avg": 8.5,
+            "deaths_avg": 8.5,
+            "assists_avg": 26.12,
+            "kda": 0.51,
+            "win_rate": 50.0,
+            "partidas_analisadas": 8
+        }
+    },
+    "AnubisZatopek#br1": {
+        "puuid": "XUv4-KLPdAZ8lZwaAYayKNIJ8DRxEV1rzVGHmuEQ7xYiFd2RAMnEM382QR_ocpK4l-CgMF_v8AQ6ZQ",
+        "estatisticas": {
+            "kills_avg": 7.57,
+            "deaths_avg": 10.14,
+            "assists_avg": 23.29,
+            "kda": 0.43,
+            "win_rate": 28.57,
+            "partidas_analisadas": 7
+        }
+    },
+    "Byshanks#2705": {
+        "puuid": "yZenPkLed2cslK3tj0cz68keWfRGAOMDprfWXr6A1Ms3FILP0_ceYkZ8Yw25XDKUPMc9boDkHclbKw",
+        "estatisticas": {
+            "kills_avg": 11.75,
+            "deaths_avg": 11.75,
+            "assists_avg": 26.5,
+            "kda": 0.41,
+            "win_rate": 75.0,
+            "partidas_analisadas": 8
+        }
+    }
+}

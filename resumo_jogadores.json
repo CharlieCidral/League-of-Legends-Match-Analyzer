@@ -1,0 +1,289 @@
+{
+    "z0g0hst#br1": {
+        "puuid": "0tif8Kyzjedg-siOiF3wiAJfERyehvPKAm1WlQg2fFwiL22zb7hu4lRHD-e9JYaB3KvZcDzHBenRFA",
+        "team": 100,
+        "campeao_id": 893,
+        "campeoes_com_S": [
+            "Desconhecido",
+            "Desconhecido"
+        ],
+        "elo": "PLATINUM IV 42LP",
+        "_elo_pontos": 1710.5,
+        "_maestria_champ_pts": {
+            "25": 371925,
+            "99": 205171,
+            "111": 190622,
+            "43": 189098,
+            "76": 188421,
+            "254": 156699,
+            "89": 129127,
+            "35": 116320,
+            "412": 114116,
+            "81": 108253
+        },
+        "estatisticas": {
+            "kills_avg": 10.17,
+            "deaths_avg": 11.33,
+            "assists_avg": 29.0,
+            "kda": 0.58,
+            "win_rate": 50.0,
+            "partidas_analisadas": 6
+        }
+    },
+    "AnubisZatopek#br1": {
+        "puuid": "XUv4-KLPdAZ8lZwaAYayKNIJ8DRxEV1rzVGHmuEQ7xYiFd2RAMnEM382QR_ocpK4l-CgMF_v8AQ6ZQ",
+        "team": 200,
+        "campeao_id": 102,
+        "campeoes_com_S": [],
+        "elo": "",
+        "_elo_pontos": 800.0,
+        "_maestria_champ_pts": {
+            "37": 171303,
+            "111": 119313,
+            "16": 116878,
+            "75": 100695,
+            "89": 99901,
+            "32": 96096,
+            "6": 90611,
+            "21": 89652,
+            "412": 85260,
+            "117": 83993
+        },
+        "estatisticas": {
+            "kills_avg": 7.57,
+            "deaths_avg": 10.14,
+            "assists_avg": 23.29,
+            "kda": 0.43,
+            "win_rate": 28.57,
+            "partidas_analisadas": 7
+        }
+    },
+    "iVitorHARD#br1": {
+        "puuid": "ZFFe5WVQzN5RMvMeCqoEij28nQcpH7xdHV88qUZu8n3hNs_tk96wuh0EQLifSrHZAl1DhS6a3Yqn-A",
+        "team": 200,
+        "campeao_id": 40,
+        "campeoes_com_S": [],
+        "elo": "",
+        "_elo_pontos": 800.0,
+        "_maestria_champ_pts": {
+            "412": 430543,
+            "53": 228645,
+            "12": 223795,
+            "201": 163524,
+            "111": 135831,
+            "64": 121144,
+            "16": 113248,
+            "43": 111112,
+            "238": 101777,
+            "157": 100390
+        },
+        "estatisticas": {
+            "kills_avg": 8.69,
+            "deaths_avg": 9.54,
+            "assists_avg": 23.69,
+            "kda": 0.26,
+            "win_rate": 46.15,
+            "partidas_analisadas": 13
+        }
+    },
+    "sea89#5752": {
+        "puuid": "XFwHI_ZENG1zFddOq44Lz7v3dNRmPMeNygfLgjep4TAwtZKYM1YB4VxUjQBFI6J_HvDj5UGaOWJnBw",
+        "team": 100,
+        "campeao_id": 910,
+        "campeoes_com_S": [
+            "Desconhecido"
+        ],
+        "elo": "SILVER IV 46LP",
+        "_elo_pontos": 911.5,
+        "_maestria_champ_pts": {
+            "39": 257095,
+            "157": 121417,
+            "236": 113697,
+            "84": 110054,
+            "517": 101645,
+            "777": 100014,
+            "910": 97314,
+            "150": 84504,
+            "41": 83860,
+            "103": 71774
+        },
+        "estatisticas": {
+            "kills_avg": 14.7,
+            "deaths_avg": 12.3,
+            "assists_avg": 24.7,
+            "kda": 0.32,
+            "win_rate": 50.0,
+            "partidas_analisadas": 10
+        }
+    },
+    "LOBÃOOOOOOO#br1": {
+        "puuid": "2hW74UxRV0pv0IJwsV0DV_VNHlp9kevmC-MjCs2ju2I-XGbtb3PznrJvAW0smBdPzLr3QZ-6Z9SJJQ",
+        "team": 100,
+        "campeao_id": 222,
+        "campeoes_com_S": [],
+        "elo": "SILVER IV 15LP",
+        "_elo_pontos": 903.75,
+        "_maestria_champ_pts": {
+            "17": 320341,
+            "161": 272694,
+            "22": 123353,
+            "67": 80530,
+            "41": 77040,
+            "25": 75430,
+            "74": 71653,
+            "81": 66537,
+            "110": 64261,
+            "235": 61658
+        },
+        "estatisticas": {
+            "kills_avg": 11.18,
+            "deaths_avg": 13.73,
+            "assists_avg": 37.64,
+            "kda": 0.32,
+            "win_rate": 63.64,
+            "partidas_analisadas": 11
+        }
+    },
+    "nobru#cute": {
+        "puuid": "1Zov38ZKB1RR3owfprGm4114J9ntiO0HlIRY0q9IJOULAT1NbT7LvgLcI8NtIYTCao-WxMnYVheJ9w",
+        "team": 200,
+        "campeao_id": 79,
+        "campeoes_com_S": [],
+        "elo": "GOLD III 22LP",
+        "_elo_pontos": 1405.5,
+        "_maestria_champ_pts": {
+            "34": 227525,
+            "518": 227500,
+            "99": 181583,
+            "90": 171829,
+            "64": 160400,
+            "31": 153074,
+            "131": 136583,
+            "136": 135285,
+            "105": 135216,
+            "79": 128406
+        },
+        "estatisticas": {
+            "kills_avg": 11.17,
+            "deaths_avg": 13.67,
+            "assists_avg": 28.33,
+            "kda": 0.48,
+            "win_rate": 50.0,
+            "partidas_analisadas": 6
+        }
+    },
+    "NeekoMeu#br1": {
+        "puuid": "24lcA7Y0CUvomqqfaejjUizsQqi1siv0dzK0J-frbIHsXaDm1Gitlekj-MTG8QRg5uyn7XegywlN4Q",
+        "team": 100,
+        "campeao_id": 111,
+        "campeoes_com_S": [],
+        "elo": "SILVER IV 5LP",
+        "_elo_pontos": 901.25,
+        "_maestria_champ_pts": {
+            "518": 176963,
+            "51": 71603,
+            "115": 61087,
+            "21": 54889,
+            "63": 54230,
+            "800": 46606,
+            "143": 32464,
+            "161": 26304,
+            "131": 24379,
+            "15": 24025
+        },
+        "estatisticas": {
+            "kills_avg": 9.0,
+            "deaths_avg": 7.0,
+            "assists_avg": 23.0,
+            "kda": 0.57,
+            "win_rate": 62.5,
+            "partidas_analisadas": 8
+        }
+    },
+    "Junn#8569": {
+        "puuid": "gpq-qYEUX_pjCbM6o986Gjsq3WkUuoQ0kqkKIF8V68obXUHdlnRGmY4lycOJ7Ib0lxC8gUMgypWt1Q",
+        "team": 200,
+        "campeao_id": 16,
+        "campeoes_com_S": [],
+        "elo": "SILVER I 15LP",
+        "_elo_pontos": 1203.75,
+        "_maestria_champ_pts": {
+            "103": 160598,
+            "21": 123103,
+            "31": 113142,
+            "16": 75306,
+            "134": 69120,
+            "99": 67849,
+            "145": 64612,
+            "51": 58637,
+            "25": 58421,
+            "86": 57772
+        },
+        "estatisticas": {
+            "kills_avg": 8.5,
+            "deaths_avg": 8.5,
+            "assists_avg": 26.12,
+            "kda": 0.51,
+            "win_rate": 50.0,
+            "partidas_analisadas": 8
+        }
+    },
+    "manogiou#br1": {
+        "puuid": "_Cu6lFkgoVg0w0fvdhnLYAvPNqvZEfQ1b-SB58vEH4N_Qo5jBkzA1FeUkbrcMkfOfO-uJXvIApzJvA",
+        "team": 100,
+        "campeao_id": 360,
+        "campeoes_com_S": [
+            "Desconhecido"
+        ],
+        "elo": "",
+        "_elo_pontos": 800.0,
+        "_maestria_champ_pts": {
+            "45": 795962,
+            "22": 395771,
+            "17": 326425,
+            "58": 191341,
+            "222": 187588,
+            "21": 175181,
+            "16": 173525,
+            "145": 172117,
+            "51": 148879,
+            "67": 148016
+        },
+        "estatisticas": {
+            "kills_avg": 12.23,
+            "deaths_avg": 10.08,
+            "assists_avg": 22.0,
+            "kda": 0.26,
+            "win_rate": 53.85,
+            "partidas_analisadas": 13
+        }
+    },
+    "Byshanks#2705": {
+        "puuid": "yZenPkLed2cslK3tj0cz68keWfRGAOMDprfWXr6A1Ms3FILP0_ceYkZ8Yw25XDKUPMc9boDkHclbKw",
+        "team": 200,
+        "campeao_id": 115,
+        "campeoes_com_S": [],
+        "elo": "",
+        "_elo_pontos": 800.0,
+        "_maestria_champ_pts": {
+            "86": 115361,
+            "89": 85856,
+            "57": 69565,
+            "105": 57110,
+            "58": 55876,
+            "3": 48332,
+            "38": 47670,
+            "111": 38950,
+            "98": 36429,
+            "39": 34299
+        },
+        "estatisticas": {
+            "kills_avg": 11.75,
+            "deaths_avg": 11.75,
+            "assists_avg": 26.5,
+            "kda": 0.41,
+            "win_rate": 75.0,
+            "partidas_analisadas": 8
+        }
+    }
+}

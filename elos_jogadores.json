@@ -1,0 +1,185 @@
+{
+    "z0g0hst#br1": {
+        "puuid": "0tif8Kyzjedg-siOiF3wiAJfERyehvPKAm1WlQg2fFwiL22zb7hu4lRHD-e9JYaB3KvZcDzHBenRFA",
+        "elo": [
+            {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "SILVER",
+                "rank": "III",
+                "puuid": "0tif8Kyzjedg-siOiF3wiAJfERyehvPKAm1WlQg2fFwiL22zb7hu4lRHD-e9JYaB3KvZcDzHBenRFA",
+                "leaguePoints": 5,
+                "wins": 31,
+                "losses": 37,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "PLATINUM",
+                "rank": "IV",
+                "puuid": "0tif8Kyzjedg-siOiF3wiAJfERyehvPKAm1WlQg2fFwiL22zb7hu4lRHD-e9JYaB3KvZcDzHBenRFA",
+                "leaguePoints": 42,
+                "wins": 95,
+                "losses": 91,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": true,
+                "hotStreak": false
+            }
+        ]
+    },
+    "LOBÃOOOOOOO#br1": {
+        "puuid": "2hW74UxRV0pv0IJwsV0DV_VNHlp9kevmC-MjCs2ju2I-XGbtb3PznrJvAW0smBdPzLr3QZ-6Z9SJJQ",
+        "elo": [
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "IV",
+                "puuid": "2hW74UxRV0pv0IJwsV0DV_VNHlp9kevmC-MjCs2ju2I-XGbtb3PznrJvAW0smBdPzLr3QZ-6Z9SJJQ",
+                "leaguePoints": 15,
+                "wins": 10,
+                "losses": 14,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            }
+        ]
+    },
+    "Junn#8569": {
+        "puuid": "gpq-qYEUX_pjCbM6o986Gjsq3WkUuoQ0kqkKIF8V68obXUHdlnRGmY4lycOJ7Ib0lxC8gUMgypWt1Q",
+        "elo": [
+            {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "III",
+                "puuid": "gpq-qYEUX_pjCbM6o986Gjsq3WkUuoQ0kqkKIF8V68obXUHdlnRGmY4lycOJ7Ib0lxC8gUMgypWt1Q",
+                "leaguePoints": 82,
+                "wins": 15,
+                "losses": 12,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "I",
+                "puuid": "gpq-qYEUX_pjCbM6o986Gjsq3WkUuoQ0kqkKIF8V68obXUHdlnRGmY4lycOJ7Ib0lxC8gUMgypWt1Q",
+                "leaguePoints": 15,
+                "wins": 5,
+                "losses": 2,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            }
+        ]
+    },
+    "AnubisZatopek#br1": {
+        "puuid": "XUv4-KLPdAZ8lZwaAYayKNIJ8DRxEV1rzVGHmuEQ7xYiFd2RAMnEM382QR_ocpK4l-CgMF_v8AQ6ZQ",
+        "elo": [
+            {
+                "tier": "Unranked",
+                "rank": ""
+            }
+        ]
+    },
+    "manogiou#br1": {
+        "puuid": "_Cu6lFkgoVg0w0fvdhnLYAvPNqvZEfQ1b-SB58vEH4N_Qo5jBkzA1FeUkbrcMkfOfO-uJXvIApzJvA",
+        "elo": [
+            {
+                "tier": "Unranked",
+                "rank": ""
+            }
+        ]
+    },
+    "sea89#5752": {
+        "puuid": "XFwHI_ZENG1zFddOq44Lz7v3dNRmPMeNygfLgjep4TAwtZKYM1YB4VxUjQBFI6J_HvDj5UGaOWJnBw",
+        "elo": [
+            {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "SILVER",
+                "rank": "II",
+                "puuid": "XFwHI_ZENG1zFddOq44Lz7v3dNRmPMeNygfLgjep4TAwtZKYM1YB4VxUjQBFI6J_HvDj5UGaOWJnBw",
+                "leaguePoints": 28,
+                "wins": 19,
+                "losses": 26,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "IV",
+                "puuid": "XFwHI_ZENG1zFddOq44Lz7v3dNRmPMeNygfLgjep4TAwtZKYM1YB4VxUjQBFI6J_HvDj5UGaOWJnBw",
+                "leaguePoints": 46,
+                "wins": 24,
+                "losses": 20,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": true,
+                "hotStreak": false
+            }
+        ]
+    },
+    "iVitorHARD#br1": {
+        "puuid": "ZFFe5WVQzN5RMvMeCqoEij28nQcpH7xdHV88qUZu8n3hNs_tk96wuh0EQLifSrHZAl1DhS6a3Yqn-A",
+        "elo": [
+            {
+                "tier": "Unranked",
+                "rank": ""
+            }
+        ]
+    },
+    "NeekoMeu#br1": {
+        "puuid": "24lcA7Y0CUvomqqfaejjUizsQqi1siv0dzK0J-frbIHsXaDm1Gitlekj-MTG8QRg5uyn7XegywlN4Q",
+        "elo": [
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "IV",
+                "puuid": "24lcA7Y0CUvomqqfaejjUizsQqi1siv0dzK0J-frbIHsXaDm1Gitlekj-MTG8QRg5uyn7XegywlN4Q",
+                "leaguePoints": 5,
+                "wins": 14,
+                "losses": 10,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": true,
+                "hotStreak": false
+            }
+        ]
+    },
+    "Byshanks#2705": {
+        "puuid": "yZenPkLed2cslK3tj0cz68keWfRGAOMDprfWXr6A1Ms3FILP0_ceYkZ8Yw25XDKUPMc9boDkHclbKw",
+        "elo": [
+            {
+                "tier": "Unranked",
+                "rank": ""
+            }
+        ]
+    },
+    "nobru#cute": {
+        "puuid": "1Zov38ZKB1RR3owfprGm4114J9ntiO0HlIRY0q9IJOULAT1NbT7LvgLcI8NtIYTCao-WxMnYVheJ9w",
+        "elo": [
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "GOLD",
+                "rank": "III",
+                "puuid": "1Zov38ZKB1RR3owfprGm4114J9ntiO0HlIRY0q9IJOULAT1NbT7LvgLcI8NtIYTCao-WxMnYVheJ9w",
+                "leaguePoints": 22,
+                "wins": 14,
+                "losses": 9,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": true
+            }
+        ]
+    }
+}
