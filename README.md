@@ -64,9 +64,8 @@ pip install requests python-dotenv
 
 ```bash
 
-curl -X GET "https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/Nome da conta/Tag" ^
-
-&#x20; -H "X-Riot-Token: RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+curl -X GET "https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/NOME_DA_CONTA/_TAG_" ^
+  -H "X-Riot-Token: RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 
 ```
 
