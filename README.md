@@ -3,7 +3,7 @@
 
 
 Este projeto conecta-se à \*\*Riot Games API\*\* para buscar informações de uma partida ativa de League of Legends e calcular a probabilidade de vitória de cada time com base em estatísticas dos jogadores.
-
+\- (https://developer.riotgames.com/).
 
 
 ## 🚀 Funcionalidades
@@ -60,7 +60,7 @@ pip install requests python-dotenv
 
 
 
-### 2. Buscar puuid(\*Substitua o nome da conta, Tag e a chave API(https://developer.riotgames.com/))
+### 2. Buscar puuid(\*Substitua o nome da conta, Tag e a chave API)
 
 ```bash
 
