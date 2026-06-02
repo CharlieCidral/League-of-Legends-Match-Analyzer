@@ -1,4 +1,4 @@
-\# 🔮 League of Legends Match Analyzer
+# 🔮 League of Legends Match Analyzer
 
 
 
@@ -6,7 +6,7 @@ Este projeto conecta-se à \*\*Riot Games API\*\* para buscar informações de u
 
 
 
-\## 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 \- Buscar partida ativa de um invocador via \*\*PUUID\*\*
 
@@ -26,7 +26,7 @@ Este projeto conecta-se à \*\*Riot Games API\*\* para buscar informações de u
 
 
 
-\## 📂 Estrutura de Arquivos
+## 📂 Estrutura de Arquivos
 
 \- `main.py` → Script principal
 
@@ -44,11 +44,11 @@ Este projeto conecta-se à \*\*Riot Games API\*\* para buscar informações de u
 
 
 
-\## ⚙️ Configuração
+## ⚙️ Configuração
 
 
 
-\### 1. Instalar dependências
+### 1. Instalar dependências
 
 ```bash
 
@@ -58,11 +58,9 @@ pip install requests python-dotenv
 
 
 
-\## ⚙️ Configuração
 
 
-
-\### 2. Buscar puuid(\*Substitua o nome da conta, Tag e a chave API(https://developer.riotgames.com/))
+### 2. Buscar puuid(\*Substitua o nome da conta, Tag e a chave API(https://developer.riotgames.com/))
 
 ```bash
 
@@ -74,7 +72,7 @@ curl -X GET "https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot
 
 
 
-\### 3. Criar arquivo .env
+### 3. Criar arquivo .env
 
 ```bash
 
@@ -86,7 +84,7 @@ PUUID\_SUMMONER=seu-puuid-aqui
 
 
 
-\### 4. Executar o script
+### 4. Executar o script
 
 ```bash
 
